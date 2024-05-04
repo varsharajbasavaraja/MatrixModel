@@ -1,5 +1,7 @@
 # Machine Learning Algorithm for Estimating Tree Upgrowth, Mortality, and Stand Recruitment
 
+## Go through the Forest Growth Model Indiana - Varsha.pdf for details.
+
 ## Overview
 This project focuses on developing a machine learning-based algorithm to estimate key metrics related to forest dynamics:
 - **Tree Upgrowth**: Change in tree width over time, indicating tree growth.
